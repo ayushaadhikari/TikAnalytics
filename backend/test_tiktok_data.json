@@ -1,0 +1,175 @@
+{
+  "Profile And Settings": {
+    "Profile Info": {
+      "App": 1,
+      "ProfileMap": {
+        "userName": "techcreator2024",
+        "bioDescription": "🚀 Tech enthusiast | Building cool stuff | Coffee addict ☕ | DM for collabs",
+        "followerCount": 2847,
+        "followingCount": 892,
+        "likesReceived": "45623",
+        "isVerified": false,
+        "profilePhoto": "https://example.com/profile.jpg"
+      }
+    },
+    "ProfileViews": {
+      "ProfileViewList": [
+        {"Date": "2026-01-31 17:03:24 UTC", "Username": "user1"},
+        {"Date": "2026-01-31 16:45:12 UTC", "Username": "techfan123"},
+        {"Date": "2026-01-31 15:22:08 UTC", "Username": "creator456"},
+        {"Date": "2026-01-31 14:15:33 UTC", "Username": "startup_guru"},
+        {"Date": "2026-01-31 13:08:19 UTC", "Username": "dev_life"},
+        {"Date": "2026-01-31 12:45:27 UTC", "Username": "innovation_hub"},
+        {"Date": "2026-01-31 11:30:14 UTC", "Username": "future_tech"},
+        {"Date": "2026-01-31 10:22:45 UTC", "Username": "digital_nomad"}
+      ]
+    }
+  },
+  "Likes and Favorites": {
+    "Like List": {
+      "App": 1,
+      "ItemFavoriteList": [
+        {"date": "2026-01-31 04:50:22", "link": "https://tiktok.com/video1"},
+        {"date": "2026-01-30 23:14:19", "link": "https://tiktok.com/video2"},
+        {"date": "2026-01-30 22:38:54", "link": "https://tiktok.com/video3"},
+        {"date": "2026-01-30 18:52:48", "link": "https://tiktok.com/video4"},
+        {"date": "2026-01-30 15:25:30", "link": "https://tiktok.com/video5"},
+        {"date": "2026-01-30 12:18:45", "link": "https://tiktok.com/video6"},
+        {"date": "2026-01-30 09:42:17", "link": "https://tiktok.com/video7"},
+        {"date": "2026-01-29 21:33:28", "link": "https://tiktok.com/video8"},
+        {"date": "2026-01-29 18:27:14", "link": "https://tiktok.com/video9"},
+        {"date": "2026-01-29 15:11:06", "link": "https://tiktok.com/video10"},
+        {"date": "2026-01-29 12:45:33", "link": "https://tiktok.com/video11"},
+        {"date": "2026-01-29 09:18:47", "link": "https://tiktok.com/video12"},
+        {"date": "2026-01-28 22:36:19", "link": "https://tiktok.com/video13"},
+        {"date": "2026-01-28 19:24:52", "link": "https://tiktok.com/video14"},
+        {"date": "2026-01-28 16:12:38", "link": "https://tiktok.com/video15"}
+      ]
+    },
+    "Favorite Videos": {
+      "App": 1,
+      "FavoriteVideoList": [
+        {"Date": "2026-01-30 15:34:53", "Link": "https://tiktok.com/fav1"},
+        {"Date": "2026-01-25 16:38:36", "Link": "https://tiktok.com/fav2"},
+        {"Date": "2026-01-20 14:22:18", "Link": "https://tiktok.com/fav3"},
+        {"Date": "2026-01-15 11:45:27", "Link": "https://tiktok.com/fav4"},
+        {"Date": "2026-01-10 18:33:45", "Link": "https://tiktok.com/fav5"},
+        {"Date": "2026-01-05 13:19:22", "Link": "https://tiktok.com/fav6"},
+        {"Date": "2025-12-28 16:44:18", "Link": "https://tiktok.com/fav7"}
+      ]
+    }
+  },
+  "Comment": {
+    "Comments": {
+      "App": 1,
+      "CommentsList": [
+        {"date": "2026-01-31 08:15:22", "comment": "This is exactly what I needed! 🔥"},
+        {"date": "2026-01-30 19:42:18", "comment": "Great content! Keep it up 👏"},
+        {"date": "2026-01-29 14:28:45", "comment": "Mind = blown 🤯"},
+        {"date": "2026-01-28 11:33:19", "comment": "Game changer right here!"},
+        {"date": "2026-01-27 16:18:27", "comment": "Saving this for later 📌"},
+        {"date": "2026-01-26 09:45:33", "comment": "Finally someone gets it!"},
+        {"date": "2026-01-25 20:22:14", "comment": "This deserves more views 🚀"},
+        {"date": "2026-01-24 13:57:38", "comment": "Can we get a part 2? 🙏"},
+        {"date": "2026-01-23 17:34:52", "comment": "Sharing this with my team!"},
+        {"date": "2026-01-22 10:18:45", "comment": "The quality is insane 🎬"},
+        {"date": "2026-01-21 15:44:27", "comment": "This helped me so much! 🙏"},
+        {"date": "2026-01-20 12:29:18", "comment": "Why isn't this trending?! 🔥"}
+      ]
+    }
+  },
+  "Direct Message": {
+    "Direct Messages": {
+      "ChatHistory": {
+        "chat_1": [
+          {"user": "collaborator123", "message": "Hey! Love your content", "timestamp": "2026-01-31 10:30:00", "direction": "received"},
+          {"user": "techcreator2024", "message": "Thanks! Appreciate it 🙏", "timestamp": "2026-01-31 10:35:00", "direction": "sent"},
+          {"user": "collaborator123", "message": "Would you be interested in a collab?", "timestamp": "2026-01-31 10:40:00", "direction": "received"},
+          {"user": "techcreator2024", "message": "Definitely! DM me details", "timestamp": "2026-01-31 10:45:00", "direction": "sent"}
+        ],
+        "chat_2": [
+          {"user": "brand_manager", "message": "Hi! We'd like to work with you", "timestamp": "2026-01-30 14:20:00", "direction": "received"},
+          {"user": "techcreator2024", "message": "Hello! Tell me more about it", "timestamp": "2026-01-30 14:25:00", "direction": "sent"},
+          {"user": "brand_manager", "message": "It's a tech campaign, perfect fit", "timestamp": "2026-01-30 14:30:00", "direction": "received"},
+          {"user": "techcreator2024", "message": "Sounds great! Let's discuss", "timestamp": "2026-01-30 14:35:00", "direction": "sent"},
+          {"user": "brand_manager", "message": "Can we schedule a call?", "timestamp": "2026-01-30 14:40:00", "direction": "received"}
+        ],
+        "chat_3": [
+          {"user": "fan456", "message": "Your videos changed my life!", "timestamp": "2026-01-29 18:15:00", "direction": "received"},
+          {"user": "techcreator2024", "message": "That means so much! 💙", "timestamp": "2026-01-29 18:20:00", "direction": "sent"}
+        ]
+      }
+    }
+  },
+  "Post": {
+    "Posts": {
+      "App": 1,
+      "VideoList": [
+        {
+          "Date": "2026-01-31 09:00:00",
+          "Description": "10 productivity hacks that actually work! 🚀",
+          "Likes": "1250",
+          "Comments": "89",
+          "Shares": "45",
+          "Views": "15234"
+        },
+        {
+          "Date": "2026-01-29 15:30:00", 
+          "Description": "My morning routine for success ☀️",
+          "Likes": "892",
+          "Comments": "67",
+          "Shares": "23",
+          "Views": "11245"
+        },
+        {
+          "Date": "2026-01-27 12:15:00",
+          "Description": "Building my dream setup 🖥️✨",
+          "Likes": "2103",
+          "Comments": "156",
+          "Shares": "78",
+          "Views": "28967"
+        },
+        {
+          "Date": "2026-01-25 18:45:00",
+          "Description": "Tech myths debunked! 🧐",
+          "Likes": "567",
+          "Comments": "43",
+          "Shares": "19",
+          "Views": "7823"
+        },
+        {
+          "Date": "2026-01-23 20:30:00",
+          "Description": "Day in the life of a tech creator 📱",
+          "Likes": "3421",
+          "Comments": "234",
+          "Shares": "112",
+          "Views": "45678"
+        },
+        {
+          "Date": "2026-01-21 14:20:00",
+          "Description": "Free tools every developer needs 🛠️",
+          "Likes": "1876",
+          "Comments": "98",
+          "Shares": "67",
+          "Views": "23456"
+        },
+        {
+          "Date": "2026-01-19 16:10:00",
+          "Description": "My biggest mistake and what I learned 💡",
+          "Likes": "4234",
+          "Comments": "312",
+          "Shares": "145",
+          "Views": "56789"
+        },
+        {
+          "Date": "2026-01-17 11:45:00",
+          "Description": "AI tools that will blow your mind 🤖",
+          "Likes": "2987",
+          "Comments": "178",
+          "Shares": "89",
+          "Views": "34567"
+        }
+      ]
+    }
+  }
+}
