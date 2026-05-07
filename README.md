@@ -47,7 +47,7 @@ TikTok_Analytics-main/
 
 3. **Update your .env file** with the generated secret key and other settings.
 
-4. **Install Ollama for AI insights** (optional but recommended):
+4. **Install Ollama for AI insights**:
    ```bash
    # Install Ollama
    curl -fsSL https://ollama.com/install.sh | sh
